@@ -9,18 +9,18 @@ Library: jQuery
 #Specifications
 The program should count up to the number
 * Example Input: 5
-* Example Output: [1 2 3 4 5]
+* Example Output: [1, 2, 3, 4, 5]
 
 The Program should return numbers divisible by 3 as Ping
 * Example Input: 5
-* Example Output: [1 2 ping 4 5[]
+* Example Output: [1, 2, ping, 4 ,5]
 
 The Program should return numbers divisible by 5 as pong
 * Example Input: 5
-* Example Output: [1 2 ping 4 pong]
+* Example Output: [1, 2, ping, 4, pong]
 
 The Program Should return numbers divisible by 15 as pingpong
 * Example Input: 15
-* Example Output: [1 2 ping 4 pong ping 7 9 ping pong 11 ping 13 14 pingpong]
+* Example Output: [1, 2, ping, 4, pong, ping, 7, 9, ping, pong, 11, ping, 13, 14, pingpong]
 
 ##Copyright (c) 2016 Dan Siegel All Rights Reserved.
