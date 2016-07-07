@@ -1,5 +1,5 @@
 #PingPong
-###### Late JavaScript & jQuery Independent Project for Epicodus, 2016-06-27
+###### Late JavaScript & jQuery Independent Project for Epicodus, 2016-06-27 https://danjsiegel.github.io/arrayCodeReview/
 ##Description
 This project creates an array from a number and returns ping or pong based on how they divide by 3/5/15
 ##Technology Used
@@ -9,7 +9,7 @@ Library: jQuery
 #Specifications
 The program should count up to the number
 * Example Input: 5
-* Example Output: [1 2 3 4 5[]
+* Example Output: [1 2 3 4 5]
 
 The Program should return numbers divisible by 3 as Ping
 * Example Input: 5
